@@ -1,12 +1,12 @@
-![FUNDAMENTOS DE PROGRAMACIÓN CON C++](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-DISBD-56949/main/img/portada.png)
+![DISEÑO DE BASE DE DATOS RELACIONALES](https://raw.githubusercontent.com/gcoronelc/UNI-MODELAMIENTO-DATOS-2021-09/main/img/portada.png)
 
 # DATOS GENERALES
 
 - Lugar: CEPS-UNI
-- Horario: Lunes, Miercoles y Viernes de 08-11 Horas
-- Inicio: 30.JUN.2021
+- Horario: Lunes y Miercoles de 19-22 Horas
+- Inicio: 08.SET.2021
 - Duración: 24 Horas
-- Dirección: https://goo.gl/maps/6JRfgrEPkLYR4AVn6
+- Dirección: https://goo.gl/maps/rmPA8mBRqbY1PznS8
 - Correo para el curso: egcc.uni@gmail.com
 
 # DOCENTE
@@ -17,8 +17,7 @@
 - Cursos Virtuales: http://gcoronelc.github.io
 - Facebook 1: https://www.facebook.com/groups/universidadjava
 - Facebook 2: https://www.facebook.com/groups/desarrollasoftware
-- Facebook 3: https://www.facebook.com/groups/bolsa.sistemas/
-- Grupo de WS de Programación: https://chat.whatsapp.com/H6BBebNDZHEAqAk6gTU5ZS
+- Facebook 3: https://www.facebook.com/groups/bolsa.sistemas
 
 # RECURSOS
 
