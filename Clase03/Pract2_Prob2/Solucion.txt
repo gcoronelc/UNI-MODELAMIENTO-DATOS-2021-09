@@ -1,0 +1,18 @@
+LISTA DE ENTIDADES
+-------------------------------------------------------
+- PRODUCTO
+- CLIENTE
+- VENTA
+- PROVEEDOR
+
+RELACIONES ENTRE ENTIDADES
+-------------------------------------------------------
+CIENTE    ----------------  VENTA
+VENTA     ----------------  PRODUCTO
+PRODUCTO  ----------------  PROVEEDOR
+
+
+
+
+
+
