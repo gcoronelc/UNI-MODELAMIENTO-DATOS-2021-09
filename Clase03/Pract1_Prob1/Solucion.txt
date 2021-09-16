@@ -1,0 +1,18 @@
+ENTIDADES
+-------------------------
+- PACIENTE
+- MEDICO
+- INGRESO
+- ALTA
+- VISITA
+- HABITACION
+
+ANALISIS DE RELACIONES
+--------------------------------------------
+PACIENTE   ----------------  INGRESO  (Ok)
+HABITACION ---------------  INGRESO   (Ok)
+MEDICO     ----------------  INGRESO  (Ok)
+INGRESO    ----------------  ALTA     (Ok)
+PACIENTE   ----------------  VISITA   (Para analizarlo)
+INGRESO    ----------------  VISITA   (Ok)
+MEDICO     ----------------  ALTA     (Ok)
