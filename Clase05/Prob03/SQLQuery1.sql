@@ -33,8 +33,17 @@ DELETE FROM DBO.MARCA WHERE IDMARCA = 3;
 GO
 
 -- CHECK
+-- Error, el check no soporta valores negativos.
 
 INSERT INTO DBO.AUTO(IDAUTO,IDMARCA,NROSERIE,MODELO,PRECIO,VENDIDO)
 VALUES(4,1,'7488899934','MODELO ALPHA',-70341.00,0);
 GO
+
+-- Venta
+select * from dbo.auto;
+go
+
+
+
+
 
